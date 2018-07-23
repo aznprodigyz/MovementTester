@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Clicker</string>
+    <string name="title_activity_reactions">Reactions</string>
+    <string name="title_activity_level_start">LevelStart</string>
+</resources>
